@@ -1,1 +1,1 @@
-docker pull node:16.14.0-stretch-slim
+docker pull emqx/emqx:5.8.5
